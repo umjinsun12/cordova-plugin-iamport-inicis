@@ -1,0 +1,64 @@
+{
+  "_from": "cordova-plugin-iamport-inicis",
+  "_id": "cordova-plugin-iamport-inicis@0.9.1",
+  "_inBundle": false,
+  "_integrity": "sha1-bNU+g9Nzj2lBuWuCc9LSlKgiLXI=",
+  "_location": "/cordova-plugin-iamport-inicis",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-iamport-inicis",
+    "name": "cordova-plugin-iamport-inicis",
+    "escapedName": "cordova-plugin-iamport-inicis",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-iamport-inicis/-/cordova-plugin-iamport-inicis-0.9.1.tgz",
+  "_shasum": "6cd53e83d3738f6941b96b8273d2d294a8222d72",
+  "_spec": "cordova-plugin-iamport-inicis",
+  "_where": "C:\\Users\\umjin\\Desktop\\venustalk\\venustalk2",
+  "author": {
+    "name": "iamport"
+  },
+  "bugs": {
+    "url": "https://github.com/iamport/cordova-plugin-iamport-inicis/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-iamport-inicis",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Plugin for inicis Payment via Iamport",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "homepage": "https://github.com/iamport/cordova-plugin-iamport-inicis#readme",
+  "keywords": [
+    "payment",
+    "iamport",
+    "inicis",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-iamport-inicis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamport/cordova-plugin-iamport-inicis.git"
+  },
+  "version": "0.9.1"
+}
